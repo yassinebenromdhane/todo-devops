@@ -76,6 +76,9 @@ class App extends Component {
             />
             <Route path="/about" component={About} />
           </div>
+		<footer align="center">
+                Mohamed Yassine Ben Romdhane- 2GL2 - Examen DEVOPS 
+          	</footer>
         </div>
       </Router>
     );
